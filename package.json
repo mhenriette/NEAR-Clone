@@ -14,7 +14,15 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "eslint": "8.26.0",
     "eslint-config-next": "13.0.0"
+=======
+    "autoprefixer": "^10.4.13",
+    "eslint": "8.26.0",
+    "eslint-config-next": "13.0.0",
+    "postcss": "^8.4.18",
+    "tailwindcss": "^3.2.1"
+>>>>>>> 59d870121efafeeb0b7f343348ac4de1f1f8fc24
   }
 }
