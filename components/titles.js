@@ -1,6 +1,6 @@
-function Title({text}){
+function Title({text, styles}){
     return (
-        <h1 className="text-darkgrey font-medium text-2xl lg:text-4xl leading-basex font-graphik tracking-small">{text}</h1>
+        <h1 className={`text-darkgrey font-medium text-2xl lg:leading-large lg:text-4xl leading-basex font-graphik tracking-small ${styles}`}>{text}</h1>
     );
 }
 export default Title

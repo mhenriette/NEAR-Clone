@@ -4,3 +4,6 @@
 .background-gradient {
   background-image: radial-gradient(50% 50% at 50% 50%,#8e9af9 0,rgba(127,208,231,0) 100%);
 }
+.bg-infinity{
+  background: radial-gradient(50% 50% at 50% 50%,#7bdde2 0,rgba(127,208,231,0) 100%);
+}
